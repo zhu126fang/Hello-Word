@@ -2,8 +2,7 @@
 	所有程序编译时均添加了-static参数
 	
 #程序执行
-1. c99_static</p>
-##1545KB</p>
+##1. c99_static 1545KB</p>
 /ffx/codesys/prj # ./c99_static</p>
 1*1=1</p>
 1*2=2   2*2=4</p>
@@ -15,19 +14,16 @@
 1*8=8   2*8=16  3*8=24  4*8=32  5*8=40  6*8=48  7*8=56  8*8=64</p>
 1*9=9   2*9=18  3*9=27  4*9=36  5*9=45  6*9=54  7*9=63  8*9=72  9*9=81</p>
 
-2. file_static</p>
-##1557KB</p>
+##2. file_static 1557KB</p>
 /ffx/codesys/prj # ./file_static</p>
 123</p>
 456</p>
 456</p>
 
-3. hello_cc_static</p>
-##4417KB</p>
+##3. hello_cc_static 4417KB</p>
 /ffx/codesys/prj # ./hello_cc_static</p>
 Hello G++!</p>
 
-4. hello_static</p>
-##1545KB</p>
+##4. hello_static 1545KB</p>
 /ffx/codesys/prj # ./hello_static.exe</p>
 Hello,World!</p>
